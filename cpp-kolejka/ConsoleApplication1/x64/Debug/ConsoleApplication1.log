@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\kasia\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(96,16): error C2062: nieoczekiwany typ "int"
+C:\Users\kasia\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(102,26): error C2065: "ile": niezadeklarowany identyfikator
+C:\Users\kasia\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(102,31): error C2065: "glowa": niezadeklarowany identyfikator
+C:\Users\kasia\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(102,38): error C2065: "ogon": niezadeklarowany identyfikator
+C:\Users\kasia\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(103,29): error C2065: "glowa": niezadeklarowany identyfikator
+C:\Users\kasia\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(103,52): error C2065: "ogon": niezadeklarowany identyfikator
+C:\Users\kasia\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(103,73): error C2065: "ile": niezadeklarowany identyfikator
